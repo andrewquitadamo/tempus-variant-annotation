@@ -30,7 +30,7 @@ Dependancies:
 
 Potential TODOs:
 --------------------
-[ ] Automatically populate the consequence_severity dictionary from an online table to include all possible consequences.  
-[ ] Include a second annotation source like SnpEff or VEP  
-[ ] Update the behavior of picking consequences with matching severity (Include all?)  
-[ ] Could refactor into functions so unittests could be added  
+- [ ] Automatically populate the consequence_severity dictionary from an online table to include all possible consequences.  
+- [ ] Include a second annotation source like SnpEff or VEP  
+- [ ] Update the behavior of picking consequences with matching severity (Include all?)  
+- [ ] Could refactor into functions so unittests could be added  
